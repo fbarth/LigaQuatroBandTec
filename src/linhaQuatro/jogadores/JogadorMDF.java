@@ -10,7 +10,7 @@ public class JogadorMDF implements Jogador {
 	long ini;
 	long conta = 0;
 	
-	public String getNome() {return "Chewbacca";	}
+	public String getNome() {return "MDF";	}
 
 	public int jogada(int[][] tabuleiro, int corDaMinhaBola) {
 		

@@ -29,15 +29,12 @@ public class GerenciadorLinhaQuatro {
 		 * 
 		 * Para inserir um novo jogador, insira aqui.
 		 * 
-		 * Jogadores da competicao 2012/1
+		 * Previa da competicao 2013/2
 		 */
 		ArrayList<Jogador> jogadores = new ArrayList<Jogador>();
 		jogadores.add(new JogadorAleatorio());
 		jogadores.add(new JogadorAlastor());
-		//jogadores.add(new JogadorDivino2());
 		jogadores.add(new JogadorIdeiaFix());
-		jogadores.add(new JogadorIgor());
-		jogadores.add(new JogadorIniciante());
 		jogadores.add(new JogadorMDF());
 		
 		/*
